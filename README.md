@@ -8,9 +8,9 @@ Usage
 
 The folder hierarchy should be as follows
 
-<subject area (with spaces removed)>/index.htm
+`<subject area (with spaces removed)>/index.htm`
 
-Then other files can also be added under the subject area folder. In the HTML file, don't include an <html> or <body> tag, since it will be included in a Moodle page. In the HTML file you can use variable %www_root% to properly link to your files.
+Then other files can also be added under the subject area folder. In the HTML file, don't include an `<html>` or `<body>` tag, since it will be included in a Moodle page. In the HTML file you can use variable %www_root% to properly link to your files.
 
 For example, 
 
