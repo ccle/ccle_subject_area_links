@@ -19,6 +19,6 @@ NURSING/document.pdf
 
 In NURSING/index.htm you can link to "NURSING/document.pdf" by creating the following link tag:
 
-<a href="%www_root%/NURSING/document.pdf">document.pdf</a>
+`<a href="%www_root%/NURSING/document.pdf">document.pdf</a>`
 
 The %www_root% variable will be replaced by the proper path to where it is located in Moodle.
